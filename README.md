@@ -1,3 +1,9 @@
+Github action rendered, local in-browser python notebooks. Go to https://sydney-informatics-hub.github.io/sih-marimo-gh-pages-template/ to try it out!
+
+![Screenshot 2025-01-17 at 5 49 20 pm](https://github.com/user-attachments/assets/34bc8d31-c562-41e1-9141-3231efd845e9)
+![Screenshot 2025-01-17 at 5 53 03 pm](https://github.com/user-attachments/assets/6dd49d8c-ed30-4578-90ac-e74a96f3776f)
+
+
 # marimo WebAssembly + GitHub Pages Template
 
 This template repository demonstrates how to export [marimo](https://marimo.io) notebooks to WebAssembly and deploy them to GitHub Pages.
