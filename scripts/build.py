@@ -58,7 +58,7 @@ def generate_index(all_notebooks: List[str], output_dir: str) -> None:
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   </head>
   <body class="font-sans max-w-2xl mx-auto p-8 leading-relaxed">
-    <div class="mb-8">
+    <div class="mb-8 flex justify-between items-center">
       <a href="https://informatics.sydney.edu.au">
         <img src="https://raw.githubusercontent.com/Sydney-Informatics-Hub/sih-marimo-gh-pages-template/main/apps/public/sih_logo.png" alt="Sydney Informatics Hub" class="h-20" />
       </a>
