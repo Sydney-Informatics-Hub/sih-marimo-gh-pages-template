@@ -1,4 +1,4 @@
-Reactive python notebooks, Github action rendered, local in-browser, usign marimo, pyodide, wasm. 
+Reactive python notebooks, Github action rendered, github hosted, local in-browser, usign marimo, pyodide, wasm. 
 
 Go to https://sydney-informatics-hub.github.io/sih-marimo-gh-pages-template/ to try it out!
 
